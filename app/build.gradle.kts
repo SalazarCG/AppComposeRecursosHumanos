@@ -54,7 +54,8 @@ dependencies {
     // Hilt para ViewModels en Compose
     implementation("androidx.hilt:hilt-navigation-compose:1.2.0") // Reemplaza con la última versión estable
 
-
+    //Firestore
+    implementation("com.google.firebase:firebase-firestore-ktx:25.0.0")
 
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.lifecycle.runtime.ktx)
