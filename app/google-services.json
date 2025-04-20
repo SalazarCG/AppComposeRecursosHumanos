@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "297546283203",
+    "project_id": "recursos-humanos-71371",
+    "storage_bucket": "recursos-humanos-71371.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297546283203:android:b7a8469c1ecd662bc9ca76",
+        "android_client_info": {
+          "package_name": "com.proyecto.practica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297546283203-6sn1kp6tgjpbvv2lbu391dofovgb3mbq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZtCtnOou0P31FyOx1HtCIKdkZSVAu160"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297546283203-6sn1kp6tgjpbvv2lbu391dofovgb3mbq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
