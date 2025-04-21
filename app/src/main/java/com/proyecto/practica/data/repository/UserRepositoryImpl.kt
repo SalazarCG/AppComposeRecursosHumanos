@@ -1,5 +1,6 @@
 package com.proyecto.practica.data.repository
 
+import com.google.firebase.auth.FirebaseUser
 import com.google.firebase.firestore.FirebaseFirestore
 import com.proyecto.practica.data.models.User
 
@@ -32,4 +33,6 @@ class UserRepositoryImpl @Inject constructor(private val firestore: FirebaseFire
             false
         }
     }
+
+
 }
